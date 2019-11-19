@@ -11,7 +11,10 @@ def UpdateString(a,b,c):
     string=a
     string[c]=string.replace((string[c]),b,1)
     print(string)
-def FindWordCount(a,b)
+def FindWordCount(a,b):
+
+def ScoreFinder(a,b,c):
+
     
     
     
