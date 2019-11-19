@@ -19,7 +19,7 @@ def Union(a,b):
 
 def Intersection(a,b)
 
-
+def NotIn(a,b):
     
     
     
