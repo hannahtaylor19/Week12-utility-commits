@@ -15,6 +15,8 @@ def FindWordCount(a,b):
 
 def ScoreFinder(a,b,c):
 
+def Union(a,b):
+
     
     
     
